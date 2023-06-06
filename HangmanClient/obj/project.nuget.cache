@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7TX4zIKbjcJ3Qi/gUOq1967IfqGIs9T2QiL2sNcIuzm01qTQiW6J5StOqtmZ28PoWYHl/dldmX1Ax1SJsY6VfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\risaf\\source\\repos\\HangmanServer\\HangmanClient\\HangmanClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\risaf\\.nuget\\packages\\supersimpletcp\\3.0.10\\supersimpletcp.3.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
